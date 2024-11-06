@@ -7,9 +7,7 @@ Color-coded Feedback:
 Green for letters in the correct position.
 Yellow for letters in the word but in the wrong position.
 Gray for letters not in the word at all.
-User-friendly messages to indicate when you've won or used all attempts.
-Prerequisites
-Python 3: Ensure you have Python 3 installed.
+
 colorama library: This library is used to provide colored feedback in the terminal.
 Installation
 Clone or Download the Repository
